@@ -28,3 +28,4 @@ Check out the `npm` branch if you're not using Yarn:
 And then once on that branch, the deploy command is:
 
 `git push heroku npm:master`
+# Rando
